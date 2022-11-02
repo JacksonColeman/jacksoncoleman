@@ -1,10 +1,19 @@
-export default function AboutMe(){
+import artInst from "../jc-art-inst.png";
 
+export default function AboutMe(){
 
     return(
         <div className="aboutme">
-            <h2>About Me</h2>
-            <p>I am a full-stack software engineer excited to enter the workforce. I recently graduated from Colgate University with a political science degree, but I discovered a love for the problem solving, collaboration, and creation of exciting projects that I found in my computer science courses. I recently finished the Flatiron School Software Engineering bootcamp, where I studied full-stack software engineering, working primarily in JavaScript (React) and Ruby on Rails. I cannot wait to contribute my problem solving skills, passion, and drive to the tech industry.</p>
+            <img src={artInst} alt="me at the art institute" height="400px"/>
+            <div className="about-text">
+                <h2>About Me</h2>
+                    <p>I'm a full-stack software engineer from Chicago, Illinois.</p>
+                    <p>I recently graduated from <a href="/education">Colgate University</a> 🎓</p>
+                    <p>I have <a href="/skills">experience</a> in Python, Java, JavaScript, and more... 💻</p>
+                    <p>I worked at <a href="/experience">Wrigley Field</a> 🐻</p>
+                    <p>I wrote for the <a href="/writing">oldest college weekly</a> in the country 🗞️</p>
+                    <p>I built a <a href="/projects">chess</a> engine using React ♟️</p>
+            </div>
         </div>
     )
 }

@@ -1,0 +1,12 @@
+/*projects*/
+.projects {
+    margin-top:2%
+}
+.projects-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .project-item {
+    padding: 10px;
+  }

@@ -6,6 +6,10 @@ import AboutMe from './components/AboutMe';
 import Projects from './components/Projects';
 import Home from './components/Home';
 import NavBar from './components/NavBar';
+import Experience from './components/Experience';
+import Education from './components/Education';
+import Skills from './components/Skills';
+import Writing from './components/Writing';
 
 // images
 import artInst from "./jc-art-inst.png";
@@ -25,6 +29,10 @@ function App() {
         <Routes>
           <Route path="/" element={<Home/>}/>
           <Route path="/projects" element={<Projects/>}/>
+          <Route path="/experience" element={<Experience/>}/>
+          <Route path="/education" element={<Education/>}/>
+          <Route path="/skills" element={<Skills/>}/>
+          <Route path="/writing" element={<Writing/>}/>
         </Routes>
       </div>
     </div>

@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/jacksoncoleman/static/css/main.073c9b0a.css",
-    "main.js": "/jacksoncoleman/static/js/main.5df51c4f.js",
+    "main.css": "/jacksoncoleman/static/css/main.acf640ec.css",
+    "main.js": "/jacksoncoleman/static/js/main.be2e0350.js",
     "static/js/787.d532f6ac.chunk.js": "/jacksoncoleman/static/js/787.d532f6ac.chunk.js",
+    "static/media/fishing.jpeg": "/jacksoncoleman/static/media/fishing.83db9dc67128f389a3fa.jpeg",
+    "static/media/jc-art-inst.png": "/jacksoncoleman/static/media/jc-art-inst.c971624332ac70aba489.png",
+    "static/media/jc-mccormick.png": "/jacksoncoleman/static/media/jc-mccormick.a01e27408f8448e5b819.png",
+    "static/media/jc-snowy.jpeg": "/jacksoncoleman/static/media/jc-snowy.61952f1f85f4af604135.jpeg",
     "static/media/logo.svg": "/jacksoncoleman/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jacksoncoleman/index.html",
-    "main.073c9b0a.css.map": "/jacksoncoleman/static/css/main.073c9b0a.css.map",
-    "main.5df51c4f.js.map": "/jacksoncoleman/static/js/main.5df51c4f.js.map",
+    "main.acf640ec.css.map": "/jacksoncoleman/static/css/main.acf640ec.css.map",
+    "main.be2e0350.js.map": "/jacksoncoleman/static/js/main.be2e0350.js.map",
     "787.d532f6ac.chunk.js.map": "/jacksoncoleman/static/js/787.d532f6ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5df51c4f.js"
+    "static/css/main.acf640ec.css",
+    "static/js/main.be2e0350.js"
   ]
 }

@@ -1,0 +1,37 @@
+.writing {
+    margin-top:2%;
+    padding-left: 13%;
+    padding-right: 13%;
+    margin-left: auto;
+}
+
+.writing p{
+    font-size: large;
+}
+
+#maroon-plug{
+    text-align: center;
+}
+
+.writing-item {
+    display: flex;
+    padding: 2%;
+}
+
+.writing-text {
+    padding-left: 2%;
+}
+
+.medium-post {
+    display: flex;
+    padding: 15px;
+}
+
+.medium-post img{
+    display: flex;
+    width: 180px;
+}
+
+.medium-text {
+    padding-left: 5%;
+}

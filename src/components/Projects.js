@@ -1,4 +1,5 @@
-import Proj from "../styles/Projects.css"
+import projectsCSS from "../styles/Projects.css"
+import { Carousel } from "react-responsive-carousel"
 
 export default function Projects(){
     return(
@@ -19,7 +20,6 @@ export default function Projects(){
                     <p>A helpful app to search films from OMDb API, get information about them, and add them to your watchlist.</p>
                     <p>This project was a collaborative one that I built at Flatiron School</p>
                     <p>My focus in the project was on the JavaScript functionality, and I restyled a personal version of the app, shown in the video.</p>
-
                 </div>
             </div>
         </div>

@@ -1,0 +1,18 @@
+.experience {
+    margin-top:2%;
+    padding-left: 13%;
+    padding-right: 13%;
+}
+
+.job-item {
+    display: flex;
+    padding: 2%;
+}
+
+.job-text {
+    padding-left: 2%;
+}
+
+h3 {
+    margin-bottom: 1%;
+}

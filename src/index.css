@@ -21,9 +21,10 @@ code {
 /* navbar */
 .navbar{
   background-color: var(--tertiary);
-  overflow: hidden;
   text-align: center;
   height: 40px;
+  justify-content: center;
+  overflow: auto;
 }
 
 .navbar a {
@@ -59,21 +60,24 @@ h2 {
 /* about */
 .aboutme {
   display: flex;
+  flex-wrap: wrap;
   padding-top: 3%;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 13%;
-  padding-right: 13%;
+  padding-left: 8%;
+  padding-right: 8%;
   padding-bottom: 5%;
+  justify-content: center;
 }
 
 img{
   border-style: solid;
   border-width: 10px;
-  color: var(--tertiary)
+  color: var(--tertiary);
 }
 
 .about-text {
+  padding-top: 2%;
   padding-left: 5%;
   font-size: larger;
   text-align: left;

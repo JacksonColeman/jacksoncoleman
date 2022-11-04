@@ -21,7 +21,7 @@ export default function Education(){
                 </div>
             </div>
             <div className="education-item">
-                <img src="https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/flatiron_logo/original.png?1561667034"/>
+                <img src="https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/flatiron_logo/original.png?1561667034" width="200px"/>
                 <div className="education-text">
                     <h3>Flatiron School • Remote</h3>
                     <i>July - October 2022</i>

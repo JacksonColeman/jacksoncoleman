@@ -9,11 +9,14 @@
 .education-item {
     padding-bottom: 10%;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .education-text {
     padding-left: 5%;
     margin-bottom: 0%;
+    width: 400px;
 }
 
 

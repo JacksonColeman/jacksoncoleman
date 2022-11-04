@@ -35,7 +35,6 @@ code {
   text-decoration: none;
   font-size: 17px;
 }
-/* colors from https://www.ft.com/__origami/service/build/v3/demo?component=o-colors%406.4.2&demo=core-primary-palette&system_code=origami-repo-data&brand=core */
 
 .navbar a.active {
   background-color: var(--primary);
@@ -44,11 +43,12 @@ code {
 .content {
   margin-left: auto;
   margin-right: auto;
+  margin-top: 3%;
 }
 
 h1 {
   text-align: center;
-  font-size: 60px;
+  font-size: 45px;
   margin-bottom: 1%;
 }
 
@@ -90,6 +90,7 @@ img{
   margin-right: auto;
   text-align: center;
   width: 100%;
+  margin-bottom: 2%;
 }
 .contact-links a{
   color: var(--secondary);

@@ -1,0 +1,19 @@
+/* navbar */
+.navbar{
+    background-color: var(--tertiary);
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .navbar a {
+    color: var(--secondary);
+    text-decoration: none;
+    padding: 1%;
+    font-size: 17px;
+  }
+  
+  .navbar a.active {
+    background-color: var(--primary);
+  }

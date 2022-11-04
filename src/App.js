@@ -28,6 +28,7 @@ function App() {
       <div className="content">
         <Routes>
           <Route path="/" element={<Home/>}/>
+          <Route path="/jacksoncoleman" element={<Home/>}/>
           <Route path="/projects" element={<Projects/>}/>
           <Route path="/experience" element={<Experience/>}/>
           <Route path="/education" element={<Education/>}/>

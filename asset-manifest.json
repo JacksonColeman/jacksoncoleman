@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/jacksoncoleman/static/css/main.acf640ec.css",
-    "main.js": "/jacksoncoleman/static/js/main.be2e0350.js",
+    "main.css": "/jacksoncoleman/static/css/main.0422904f.css",
+    "main.js": "/jacksoncoleman/static/js/main.109fa1a5.js",
     "static/js/787.d532f6ac.chunk.js": "/jacksoncoleman/static/js/787.d532f6ac.chunk.js",
-    "static/media/fishing.jpeg": "/jacksoncoleman/static/media/fishing.83db9dc67128f389a3fa.jpeg",
-    "static/media/jc-art-inst.png": "/jacksoncoleman/static/media/jc-art-inst.c971624332ac70aba489.png",
+    "static/media/jc-fishing.png": "/jacksoncoleman/static/media/jc-fishing.2047e272d4b3a7c6febe.png",
+    "static/media/jc-grad.png": "/jacksoncoleman/static/media/jc-grad.631456d0a0601e3ae374.png",
+    "static/media/jc-art-inst.png": "/jacksoncoleman/static/media/jc-art-inst.3692c6e24b7e4c7b8b23.png",
+    "static/media/jc-cubs.png": "/jacksoncoleman/static/media/jc-cubs.9a442bf4952c759514fe.png",
     "static/media/jc-mccormick.png": "/jacksoncoleman/static/media/jc-mccormick.a01e27408f8448e5b819.png",
+    "static/media/jc-persson.JPG": "/jacksoncoleman/static/media/jc-persson.dc2384732b957e167542.JPG",
+    "static/media/mjc-interns.jpeg": "/jacksoncoleman/static/media/mjc-interns.dedda355af17f8a278fb.jpeg",
     "static/media/jc-snowy.jpeg": "/jacksoncoleman/static/media/jc-snowy.61952f1f85f4af604135.jpeg",
+    "static/media/JacksonColemanResume.pdf": "/jacksoncoleman/static/media/JacksonColemanResume.6fa9fe87d1aaf631ee4f.pdf",
     "static/media/logo.svg": "/jacksoncoleman/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jacksoncoleman/index.html",
-    "main.acf640ec.css.map": "/jacksoncoleman/static/css/main.acf640ec.css.map",
-    "main.be2e0350.js.map": "/jacksoncoleman/static/js/main.be2e0350.js.map",
+    "main.0422904f.css.map": "/jacksoncoleman/static/css/main.0422904f.css.map",
+    "main.109fa1a5.js.map": "/jacksoncoleman/static/js/main.109fa1a5.js.map",
     "787.d532f6ac.chunk.js.map": "/jacksoncoleman/static/js/787.d532f6ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.acf640ec.css",
-    "static/js/main.be2e0350.js"
+    "static/css/main.0422904f.css",
+    "static/js/main.109fa1a5.js"
   ]
 }

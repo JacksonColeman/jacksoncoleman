@@ -16,7 +16,7 @@ export default function Projects(){
                 </div>
                 <div className="project-item">
                     <h3>Catalogue Cinematica | <a href="https://github.com/JacksonColeman/CatalogueCinematica" target="_blank">Github</a></h3>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/VreP6AJA9Qc"/>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/3HMZRGpULGg"/>
                     <p>A helpful app to search films from OMDb API, get information about them, and add them to your watchlist.</p>
                     <p>This project was a collaborative one that I built at Flatiron School</p>
                     <p>My focus in the project was on the JavaScript functionality, and I restyled a personal version of the app, shown in the video.</p>

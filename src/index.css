@@ -1,16 +1,20 @@
-:root {
-  --primary: #132e5f;
-  --secondary: white;
-  --tertiary: #cf6c48;
-}
 
-body {
+
+body{
+  --primary: white;
+  --secondary: #132e5f;
+  --tertiary: #cf6c48;
   margin: 0;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: var(--primary);
   color: var(--secondary);
+}
+
+.dark{
+  --primary: #132e5f;
+  --secondary: white;
 }
 
 code {
@@ -88,3 +92,19 @@ ul li {
   padding-left: 0;
   padding-bottom: 2%;
 }
+
+/* button */
+
+.button-container {
+  text-align: center;
+}
+
+button {
+  background-color: var(--secondary);
+  color: var(--primary);
+}
+
+button:hover {
+  color: var(--tertiary);
+}
+

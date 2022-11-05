@@ -18,12 +18,29 @@ import mcC from "./images/jc-mccormick.png"
 import snowy from "./images/jc-snowy.jpeg"
 
 import { Routes, Route } from 'react-router-dom';
-
+import {useEffect, useState} from 'react';
 
 
 function App() {
+  // for conditional css
+  const [darkMode, setDarkMode] = useState(true);
+
+  useEffect(() => {
+    // 👇 add class to body element
+    if (darkMode){
+      document.body.classList.add('dark');
+    } else if (document.body.classList.contains('dark')){
+      document.body.classList.remove('dark');
+    }
+  }, [darkMode])
+
+  const toggleDarkMode = () => {
+    setDarkMode(!darkMode);
+  }
+
+    // 👇️ adding multiple classes to body tag
   return (
-    <div>
+    <div className='app'>
       <NavBar/>
       <div className="content">
         <Routes>
@@ -35,6 +52,9 @@ function App() {
           <Route path="/skills" element={<Skills/>}/>
           <Route path="/writing" element={<Writing/>}/>
         </Routes>
+        <div className='button-container'>
+          <button onClick={toggleDarkMode}>{darkMode ? "Light Mode" : "Dark Mode"}</button>
+        </div>
       </div>
     </div>
   );

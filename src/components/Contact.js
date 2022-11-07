@@ -14,7 +14,7 @@ export default function Contact(){
                 <i> <FontAwesomeIcon icon={faGithub}/></i>
                 <a href="https://www.twitter.com/soulinthegame" target="_blank">Twitter</a>
                 <i> <FontAwesomeIcon icon={faTwitter}/></i>
-                <a href="https://drive.google.com/file/d/1bg0eYJDH9ZeA1ngx_wq1sDrVFvcIvtBh/view?usp=sharing" target="_blank">Resume</a>
+                <a href="https://drive.google.com/file/d/16qZtp4_cVBB9j7QaC2YOrlNSTCXDK0cC/view?usp=sharing" target="_blank">Resume</a>
             </div>
         </div>
     )
